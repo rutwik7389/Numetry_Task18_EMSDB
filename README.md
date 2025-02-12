@@ -1,5 +1,5 @@
 # Numetry_Task18_EMSDB
-README - Employee Management System (EMS) Database
+Employee Management System (EMS) Database
 Overview
 The NumetryEMS database is designed for managing employee records, including their details, departments, and salaries. 
 It ensures efficient employee data tracking, salary management, and departmental organization.
